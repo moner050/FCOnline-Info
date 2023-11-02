@@ -9,3 +9,14 @@
 - 사용 DB : MySQL 8.0.31
 - 빌드툴 : Gradle
 - 관리툴 : Git, Github
+
+
+### ⚒ 기술 스택
+- Backend
+  - Spring Boot
+  - Spring Devtools
+  - Lombok
+
+- Frontend
+  - JSP
+  - JSTL
